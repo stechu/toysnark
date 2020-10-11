@@ -1,0 +1,3 @@
+# toysnark
+
+a toy zkSnark.
